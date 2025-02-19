@@ -1,0 +1,42 @@
+.like {
+    padding: 80px 20px;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 6rem;
+    font-weight: bold;
+    margin-bottom: 40px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+    max-width: 1030px;
+    margin: 0 auto;
+  }
+  
+  .item {
+    text-align: center;
+    width: 30%;
+  }
+  .imageContainer img {
+    justify-content: center;
+    margin:  0 auto;
+    text-align: center;
+  }
+
+.textContainer {
+  margin-top: 40px;
+}
+
+.textContainer h2 {
+  font-size: 1.5rem;
+}
+  .item p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #7e3b3b;
+    color: #000;
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  .navList {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+  }
+  
+  .navList li {
+    font-size: 30px;
+  }
+  
+  .navList a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  
+  .navList a:hover {
+    color: #facc15; /* ホバー時に黄色っぽく */
+  }
+  

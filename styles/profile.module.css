@@ -1,0 +1,36 @@
+.profile {
+    padding: 80px 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .text {
+    flex: 1;
+    font-size: 1.2rem;
+    text-align: left;
+  }
+  
+  .image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image img {
+    border-radius: 50%;
+  }
+  
