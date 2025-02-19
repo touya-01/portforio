@@ -21,6 +21,21 @@ h2 {
   font-weight: 500;
   font-style: normal;
 }
+button {
+  padding: 10px;
+  font-size: 1.2rem;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background-color: #005bb5;
+}
+
 
 @layer base {
   :root {

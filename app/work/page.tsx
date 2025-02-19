@@ -42,7 +42,7 @@ export default function Work() {
       link: "#",
     },
     {
-      id: 5,
+      id: 6,
       title: "ECサイト",
       description: "靴を専門とするECサイト",
       image: "/ec_site.png",
