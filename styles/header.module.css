@@ -2,13 +2,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    padding: 0px 20px;
     background-color: #7e3b3b;
     color: #000;
   }
-  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
   .logo img {
-    height: 50px;
+    height: auto;
+    align-items: center;
+    margin-bottom: 20px;
   }
   
   .navList {

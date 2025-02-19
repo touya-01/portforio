@@ -9,7 +9,7 @@ export default function Header() {
     <header className={styles.header}>
       {/* 左側：ロゴ */}
       <div className={styles.logo}>
-          <Image src="/logo.svg" alt="Logo" width={150} height={50} />
+          <Image src="/logo.svg" alt="Logo" width={230} height={150} />
       </div>
 
       {/* 右側：ナビゲーション */}

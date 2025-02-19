@@ -15,11 +15,11 @@ export default function About() {
 
         {/* 右側: 自己紹介テキスト */}
         <div className={styles.text}>
-          <p><strong>名前:</strong> あなたの名前</p>
-          <p><strong>出身:</strong> あなたの出身地</p>
-          <p><strong>生年月日:</strong> 199X年X月X日</p>
+          <p><strong>名前:</strong> 有薗 柊哉</p>
+          <p><strong>出身:</strong> 静岡県富士市</p>
+          <p><strong>生年月日:</strong> 2002年02月05日</p>
           <p><strong>志望職種:</strong> フロントエンジニア</p>
-          <p>最近は Next.js や Tailwind CSS を活用し、より高品質なWebサイトを作ることを目指しています。</p>
+          <p>最近は Next.js や Tailwind CSS を活用し、より高品質なWebサイトを作ることを目指してサイトを作っています。</p>
         </div>
       </div>
 
@@ -27,24 +27,24 @@ export default function About() {
         <h3 className={styles.subtitle}>HISTORY</h3>
         <ul className={styles.timeline}>
           <li>
-            <span className={styles.year}>2000</span>
-            <span className={styles.event}>○○小学校 入学</span>
+            <span className={styles.year}>2002</span>
+            <span className={styles.event}>生まれる</span>
           </li>
           <li>
-            <span className={styles.year}>2006</span>
-            <span className={styles.event}>○○中学校 入学</span>
+            <span className={styles.year}>2014</span>
+            <span className={styles.event}>千葉県立旭第二中学校 入学</span>
           </li>
           <li>
-            <span className={styles.year}>2009</span>
-            <span className={styles.event}>○○高校 入学</span>
+            <span className={styles.year}>2017</span>
+            <span className={styles.event}>千葉県立東総工業高等高校 入学</span>
           </li>
           <li>
-            <span className={styles.year}>2012</span>
-            <span className={styles.event}>○○大学 入学</span>
+            <span className={styles.year}>2020</span>
+            <span className={styles.event}>村岡ゴム工業株式会社 入社</span>
           </li>
           <li>
-            <span className={styles.year}>2016</span>
-            <span className={styles.event}>○○企業に就職</span>
+            <span className={styles.year}>2024</span>
+            <span className={styles.event}>HAL東京専門学校WEB学科 入学</span>
           </li>
         </ul>
       </div>

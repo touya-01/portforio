@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <h2>CONTACT</h2>
       <p>ご連絡はこちらまで</p>
-      <a href="mailto:touyaname@example.com">touyaname@example.com</a>
+      <a href="touya0205touya@gmail.com">touya0205touya@gmail.com</a>
     </footer>
   );
 }
